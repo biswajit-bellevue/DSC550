@@ -175,3 +175,4 @@ petsdb
 *.sql
 *key*.json
 iframe_figures/*
+data/
